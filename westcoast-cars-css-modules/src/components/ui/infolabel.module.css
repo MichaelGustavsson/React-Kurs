@@ -1,0 +1,16 @@
+.info-label {
+  display: flex;
+  padding: 0.2rem 0;
+  gap: 1rem;
+}
+
+.info-text {
+  display: flex;
+  flex-direction: column;
+  padding: 0.2rem 0;
+  gap: 0.2rem;
+}
+
+.info-text p {
+  margin-left: 1rem;
+}

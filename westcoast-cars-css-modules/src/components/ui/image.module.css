@@ -1,0 +1,7 @@
+.image {
+  width: 100%;
+  border: solid 1px var(--text-color);
+  background: var(--dark-color);
+  padding: 0.2rem;
+  border-radius: 0.3rem;
+}

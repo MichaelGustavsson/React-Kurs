@@ -1,0 +1,8 @@
+/* Deklarerar variabler i CSS för att hantera färger */
+:root {
+  --primary-color: #00796b;
+  --secondary-color: #04564c;
+  --text-color: #f4f4f4;
+  --secondary-text-color: #ef6c00;
+  --dark-color: #262525;
+}
